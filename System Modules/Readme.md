@@ -20,9 +20,9 @@
 
 Note - Smooth Boot (Fabric) and LazyDFU achieve much the same result.  It is a matter of preference which one is installed client-side.
 
-|Mod|Modrinth|Curseforge|Author|Support|
-|-|-|-|-|-|
-|BetterF3| | | | |
+|Mod|Modrinth|Curseforge|Github|Author|Support|
+|-|-|-|-|-|-|
+|BetterF3|[8shC1gFX](https://modrinth.com/mod/betterf3)| |[cominixo/BetterF3](https://github.com/cominixo/BetterF3)|[treyruffy]([https://modrinth.com/user/treyruffy](https://github.com/TreyRuffy)), [cominixo](https://github.com/cominixo)|[TreyRuffy](https://www.buymeacoffee.com/TreyRuffy), [cominixo](https://ko-fi.com/cominixo) |
 |CIT Resewn| | | | |
 |Cloth Config API| | | | |
 |Continuity| | | | |
