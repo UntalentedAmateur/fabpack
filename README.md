@@ -17,7 +17,7 @@ For optimal enjoyment, it is recommended that all connecting clients to a server
 
 Ferium / Packwiz
 
-Because Fabric doesn't really support Optifine (let's just go with no), a lot of where things began was with the work done by LambdAurora (https://lambdaurora.dev/optifine_alternatives/), and the list of https://github.com/LambdAurora/optifine_alternatives, and comp500's list of server side Fabric (at the time, Quilt now) mods https://github.com/comp500/quilt-serverside-mods/blob/main/README.md
+Because Fabric doesn't really support Optifine (let's just go with no, but at least recognise the work done by Chocohead ([Curseforge](https://www.curseforge.com/members/chocohead/projects), [Github](https://github.com/Chocohead)) extending the work of [modmuss50](https://github.com/modmuss50) with Optifabric ([Curseforge](https://www.curseforge.com/minecraft/mc-mods/optifabric), [Github](https://github.com/Chocohead/OptiFabric)), a lot of where things began was with the work done by LambdAurora (https://lambdaurora.dev/optifine_alternatives/), and the list of https://github.com/LambdAurora/optifine_alternatives, and comp500's list of server side Fabric (at the time, Quilt now) mods https://github.com/comp500/quilt-serverside-mods/blob/main/README.md
 
 
 Some mods are recommended only for admins, such as TabTPS, and others like SimpleHUD have a lot of their functionality captured in other mods (e.g. via Xaero and in the basic config).
@@ -35,7 +35,48 @@ ATLauncher Setup Guide
 
 ###### System Server
 
+|Mod|Modrinth|Curseforge|Author|Support|
+|-|-|-|-|-|
+|Fabric Language Kotlin| | | | |
+|FerriteCore| | | | |
+|Krypton| | | | |
+|LazyDFU| | | | |
+|Lithium| | | | |
+|LuckPerms| | | | |
+|Recipe Cache| | | | |
+|Starlight (Fabric)| | | | |
+|TabTPS| | | | |
+
+
 ###### System Client
+
+Note - Smooth Boot (Fabric) and LazyDFU achieve much the same result.  It is a matter of preference which one is installed client-side.
+
+|Mod|Modrinth|Curseforge|Author|Support|
+|-|-|-|-|-|
+|BetterF3| | | | |
+|CIT Resewn| | | | |
+|Cloth Config API| | | | |
+|Continuity| | | | |
+|Controlling| | | | |
+|Dynamic FPS| | | | |
+|EntityCulling| | | | |
+|Fabric API| | | | |
+|Fabric Language Kotlin| | | | |
+|FabricSkyboxes| | | | |
+|Indium| | | | |
+|Iris Shaders| | | | |
+|LambDynamicLights| | | | |
+|LazyDFU| | | | |
+|MidnightControls| | | | |
+|MidnightLib| | | | |
+|Mod Menu| | | | |
+|Mod Settings for Fabric| | | | |
+|Recipe Cache| | | | |
+|Reese's Sodium Options| | | | |
+|Smooth Boot (Fabric)| | | | |
+|Sodium| | | | |
+|Sodium Extras| | | | |
 
 
 ## Baseline Modules
@@ -44,7 +85,85 @@ Installed after the System sets and provide the lightest variation to the baseli
 
 ###### Baseline Server
 
+|Mod|Modrinth|Curseforge|Author|Support|
+|-|-|-|-|-|
+|Appleskin| | | | |
+|Bedspreads (Fabric)| | | | |
+|BlockMeterFabric| | | | |
+|Blossom| | | | |
+|Cloth Config API| | | | |
+|Collective (Fabric)| | | | |
+|Couplings| | | | |
+|CraftTweaker| | | | |
+|Diggus Maximus| | | | |
+|EditSign| | | | |
+|Fabric API| | | | |
+|FallingTree| | | | |
+|Faux Custom Entity Data| | | | |
+|HealthCare| | | | |
+|Ingredient Extension API| | | | |
+|Just Mob Heads (Fabric)| | | | |
+|Just Player Heads (Fabric)| | | | |
+|Kambrik| | | | |
+|MAmbience| | | | |
+|MidnightLib| | | | |
+|Motschen's Puddles| | | | |
+|Patchouli| | | | |
+|Polymorph (Fabric)| | | | |
+|Right-Click-Harvest| | | | |
+|Simple Voice Chat| | | | |
+|SleepWarp| | | | |
+|Smoke Extender| | | | |
+|Sound Physics Remastered| | | | |
+|SpaghettiTrees| | | | |
+|Styled Chat| | | | |
+|Styled Nicknames| | | | |
+|This Rocks!| | | | |
+|Villager Death Messages (Fabric)| | | | |
+|Villager Names (Fabric Version)| | | | |
+|Xaero's Minimap| | | | |
+|Xaero's World Map| | | | |
+
+
 ###### Baseline Client
+
+|Mod|Modrinth|Curseforge|Author|Support|
+|-|-|-|-|-|
+|AmbientSounds 5| | | | |
+|AppleSkin| | | | |
+|Bedspreads (Fabric)| | | | |
+|BlockMeterFabric| | | | |
+|Bookshelf| | | | |
+|Collective (Fabric)| | | | |
+|Compass Ribbon| | | | |
+|Couplings| | | | |
+|CraftTweaker| | | | |
+|CreativeCore| | | | |
+|Deatil Armor Bar| | | | |
+|Diggus Maximus| | | | |
+|Enchantment Descriptions| | | | |
+|Falling Leaves| | | | |
+|FallingTree| | | | |
+|Faux Custom Entity Data| | | | |
+|Ingredient Extension API| | | | |
+|Just Mob Heads (Fabric)| | | | |
+|Just Player Heads (Fabric)| | | | |
+|Kambrik| | | | |
+|MAmbience| | | | |
+|MidnightLib| | | | |
+|Motschen's Puddles| | | | |
+|Patchouli| | | | |
+|Polymorph (Fabric)| | | | |
+|Right-Click-Harvest| | | | |
+|Simple Voice Chat| | | | |
+|Smoke Extender| | | | |
+|Sound Physics Remastered| | | | |
+|SpaghettiTrees| | | | |
+|This Rocks!| | | | |
+|Villager Death Messages (Fabric)| | | | |
+|Villager Names (Fabric Version)| | | | |
+|Xaero's Minimap| | | | |
+|Xaero's World Map| | | | |
 
 
 ## General SMP Modules
@@ -53,12 +172,125 @@ Installed after the System and Baseline sets for gaming on SMP and Creative serv
 
 ###### General Server
 
+|Mod|Modrinth|Curseforge|Author|Support|
+|-|-|-|-|-|
+|Adorn| | | | |
+|Animal Feeding Trough| | | | |
+|Artisanat| | | | |
+|Better Animals Plus| | | | |
+|Campanion| | | | |
+|Charm| | | | |
+|Chirpy's Wildlife| | | | |
+|Consistency+| | | | |
+|Creeper Confetti| | | | |
+|Creeper Overhaul| | | | |
+|Croptopia| | | | |
+|Croptopia's Chocolaterie| | | | |
+|Culinaire| | | | |
+|Dawn API| | | | |
+|Decorative| | | | |
+|Dehydration| | | | |
+|EM4ES| | | | |
+|EnvironmentZ| | | | |
+|Expanded Delight| | | | |
+|Fabric Seasons| | | | |
+|FabricAutoCrafter| | | | |
+|Farmer's Delight| | | | |
+|Feature NBT Deadlock Be Gone| | | | |
+|GeckoLib| | | | |
+|Head Index| | | | |
+|hewo| | | | |
+|Inv View| | | | |
+|Kits| | | | |
+|Macaw's Bridges| | | | |
+|Macaw's Doors| | | | |
+|Macaw's Fences and Walls| | | | |
+|Macaw's Lights and Lamps| | | | |
+|Macaw's Paintings| | | | |
+|Macaw's Roofs| | | | |
+|Macaw's Trapdoors| | | | |
+|Macaw's Windows| | | | |
+|MCA Reborn| | | | |
+|Mo' Structures| | | | |
+|Pehkui| | | | |
+|Promenade| | | | |
+|Rat's Mischief| | | | |
+|Repurposed Structures| | | | |
+|Server Hats| | | | |
+|TacoCraft| | | | |
+|TerraBlender| | | | |
+|The Guild| | | | |
+|Traveler's Backpack| | | | |
+|ValleyCraft| | | | |
+|Whisperwoods| | | | |
+|Wolves With Armor| | | | |
+|You're in Grave Danger| | | | |
+
+
 ###### General Client
+
+|Mod|Modrinth|Curseforge|Author|Support|
+|-|-|-|-|-|
+|Adorn| | | | |
+|Animal Feeding Trough| | | | |
+|Architectury| | | | |
+|Artisanat| | | | |
+|Bad Packets| | | | |
+|Better Animals Plus| | | | |
+|Campanion| | | | |
+|Charm| | | | |
+|Charmonium| | | | |
+|Chirpy's Wildlife| | | | |
+|Consistency+| | | | |
+|Creeper Confetti| | | | |
+|Creeper Overhaul| | | | |
+|Croptopia| | | | |
+|Croptopia's Chocolaterie| | | | |
+|Culinaire| | | | |
+|Dawn API| | | | |
+|Decorative| | | | |
+|Dehydration| | | | |
+|EnvironmentZ| | | | |
+|Expanded Delight| | | | |
+|Fabric Seasons| | | | |
+|FabricAutoCrafter| | | | |
+|Farmer's Delight| | | | |
+|Feature NBT Deadlock Be Gone| | | | |
+|GeckoLib| | | | |
+|Macaw's Bridges| | | | |
+|Macaw's Doors| | | | |
+|Macaw's Fences and Walls| | | | |
+|Macaw's Lights and Lamps| | | | |
+|Macaw's Paintings| | | | |
+|Macaw's Roofs| | | | |
+|Macaw's Trapdoors| | | | |
+|Macaw's Windows| | | | |
+|MCA Reborn| | | | |
+|Mo' Structures| | | | |
+|Pehkui| | | | |
+|Promenade| | | | |
+|Rat's Mischief| | | | |
+|Repurposed Structures| | | | |
+|Roughly Enough Items| | | | |
+|Roughly Enough Resources| | | | |
+|Roughly Searchable| | | | |
+|Sandwichable| | | | |
+|TacoCraft| | | | |
+|TerraBlender| | | | |
+|The Guild| | | | |
+|Traveler's Backpack| | | | |
+|ValleyCraft| | | | |
+|Whisperwoods| | | | |
+|Wolves With Armor| | | | |
+|WTHIT| | | | |
+|You're in Grave Danger| | | | |
 
 
 ## Hardcore Modules
 
 Installed after the System and Baseline sets for gaming on Hardcore worlds.  While some mods may allow QOL (Quality of Life) changes that might be considered cheating (i.e. anything other than pure vanilla Minecraft), they can be managed effectively through the server-side configuration files to ensure that vanilla effects are still felt for activating those specific functions / abilities / capabilities.
+
+There are no dedicated mods that are applied beyond the baseline configuration, just specific configuration settings.
 
 ###### Hardcore Server
 
@@ -71,7 +303,24 @@ These are mods that might have originally been part of one of the above modules 
 
 ###### Optional Server
 
+|Mod|Modrinth|Curseforge|Author|Support|
+|-|-|-|-|-|
+|Cooperative Advancements| | | | |
+|Iceberg (Coop Advancements library)| | | | |
+|Minecraft Transit Railway| | | | |
+|Prefab| | | | |
+|The London Underground| | | | |
+
+
 ###### Optional Client
+
+|Mod|Modrinth|Curseforge|Author|Support|
+|-|-|-|-|-|
+|Minecraft Transit Railway| | | | |
+|Mod Manager| | | | |
+|Prefab| | | | |
+|The London Underground| | | | |
+
 
 ## UA's Resource Pack & Shader Settings
 
