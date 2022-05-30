@@ -190,7 +190,6 @@ Installed after the System and Baseline sets for gaming on SMP and Creative serv
 |Creeper Confetti| | | | |
 |Creeper Overhaul| | | | |
 |Croptopia| | | | |
-|Croptopia's Chocolaterie| | | | |
 |Culinaire| | | | |
 |Dawn API| | | | |
 |Decorative| | | | |
