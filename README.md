@@ -43,6 +43,7 @@ ATLauncher Setup Guide
 |LazyDFU| | | | |
 |Lithium| | | | |
 |LuckPerms| | | | |
+|Mods Command| | | | |
 |Recipe Cache| | | | |
 |Starlight (Fabric)| | | | |
 |TabTPS| | | | |
@@ -59,6 +60,7 @@ Note - Smooth Boot (Fabric) and LazyDFU achieve much the same result.  It is a m
 |Cloth Config API| | | | |
 |Continuity| | | | |
 |Controlling| | | | |
+|Disable Custom Worlds Advice| | | | |
 |Dynamic FPS| | | | |
 |EntityCulling| | | | |
 |Fabric API| | | | |
@@ -142,10 +144,12 @@ Installed after the System sets and provide the lightest variation to the baseli
 |Deatil Armor Bar| | | | |
 |Diggus Maximus| | | | |
 |Enchantment Descriptions| | | | |
+|Entity Texture Features| | | | |
 |Falling Leaves| | | | |
 |FallingTree| | | | |
 |Faux Custom Entity Data| | | | |
 |Ingredient Extension API| | | | |
+|Inventory Profiles Next| | | | |
 |Just Mob Heads (Fabric)| | | | |
 |Just Player Heads (Fabric)| | | | |
 |Kambrik| | | | |
@@ -191,6 +195,7 @@ Installed after the System and Baseline sets for gaming on SMP and Creative serv
 |Decorative| | | | |
 |Dehydration| | | | |
 |EM4ES| | | | |
+|Enriched| | | | |
 |EnvironmentZ| | | | |
 |Expanded Delight| | | | |
 |Fabric Seasons| | | | |
@@ -250,6 +255,7 @@ Installed after the System and Baseline sets for gaming on SMP and Creative serv
 |Dawn API| | | | |
 |Decorative| | | | |
 |Dehydration| | | | |
+|Enriched| | | | |
 |EnvironmentZ| | | | |
 |Expanded Delight| | | | |
 |Fabric Seasons| | | | |
@@ -316,9 +322,13 @@ These are mods that might have originally been part of one of the above modules 
 
 |Mod|Modrinth|Curseforge|Author|Support|
 |-|-|-|-|-|
+|Custom Splash Screen| | | | |
+|Fabric Restart| | | | |
 |Minecraft Transit Railway| | | | |
 |Mod Manager| | | | |
+|Moderate Loading Screen| | | | |
 |Prefab| | | | |
+|Simple HUD Utilities| | | | |
 |The London Underground| | | | |
 
 
