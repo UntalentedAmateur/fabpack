@@ -22,8 +22,8 @@ Note - Smooth Boot (Fabric) and LazyDFU achieve much the same result.  It is a m
 
 |Mod|Modrinth|Curseforge|Github|Author|Support|
 |-|-|-|-|-|-|
-|BetterF3|[8shC1gFX](https://modrinth.com/mod/betterf3)| |[cominixo/BetterF3](https://github.com/cominixo/BetterF3)|[treyruffy]([https://modrinth.com/user/treyruffy](https://github.com/TreyRuffy)), [cominixo](https://github.com/cominixo)|[TreyRuffy](https://www.buymeacoffee.com/TreyRuffy), [cominixo](https://ko-fi.com/cominixo) |
-|CIT Resewn| | | | |
+|BetterF3|[8shC1gFX](https://modrinth.com/mod/betterf3)| |[cominixo/BetterF3](https://github.com/cominixo/BetterF3)|[treyruffy](https://github.com/TreyRuffy), [cominixo](https://github.com/cominixo)|[TreyRuffy](https://www.buymeacoffee.com/TreyRuffy), [cominixo](https://ko-fi.com/cominixo) |
+|CIT Resewn|[otVJckYQ](https://modrinth.com/mod/cit-resewn) |[521427](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)|[SHsuperCM/CITResewn](https://github.com/SHsuperCM/CITResewn)|[SHsuperCM](https://www.curseforge.com/members/shsupercm/projects) | |
 |Cloth Config API| | | | |
 |Continuity| | | | |
 |Controlling| | | | |
@@ -42,9 +42,9 @@ Note - Smooth Boot (Fabric) and LazyDFU achieve much the same result.  It is a m
 |Mod Menu| | | | |
 |Mod Settings for Fabric| | | | |
 |Recipe Cache| | | | |
-|Reese's Sodium Options| | | | |
+|Reese's Sodium Options|[Bh37bMuy](https://modrinth.com/mod/reeses-sodium-options) | |[FlashyReese/reeses-sodium-options](https://github.com/FlashyReese/reeses-sodium-options) | [FlashyReese](https://modrinth.com/user/FlashyReese)|[Ko-fi](https://ko-fi.com/flashyreese) |
 |Smooth Boot (Fabric)| | | | |
-|Sodium| | | | |
-|Sodium Extras| | | | |
+|Sodium|[AANobbMI](https://modrinth.com/mod/sodium) | |[CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) |[jellysquid3](https://modrinth.com/user/jellysquid3) |[Ko-fi](https://ko-fi.com/jellysquid_) |
+|Sodium Extras|[PtjYWJkn](https://modrinth.com/mod/sodium-extra)| |[FlashyReese/sodium-extra-fabric](https://github.com/FlashyReese/sodium-extra-fabric)| [FlashyReese](https://modrinth.com/user/FlashyReese)|[Ko-fi](https://ko-fi.com/flashyreese) |
 
 
