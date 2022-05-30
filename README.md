@@ -180,6 +180,7 @@ Installed after the System and Baseline sets for gaming on SMP and Creative serv
 |-|-|-|-|-|
 |Adorn| | | | |
 |Animal Feeding Trough| | | | |
+|Architectury| | | | |
 |Artisanat| | | | |
 |Better Animals Plus| | | | |
 |Campanion| | | | |
