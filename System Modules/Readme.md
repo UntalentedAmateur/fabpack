@@ -15,7 +15,7 @@
 |Starlight (Fabric)|1.0.2| | | | |
 |TabTPS|1.3.13| | | | |
 
-**Note** For LuckPerms to effectively pass parameters for use by Styled Chat (Baseline System Module), you will need the [LuckPerms Placeholder Hook] (https://ci.lucko.me/job/LuckPermsPlaceholders/lastSuccessfulBuild/artifact/fabric-placeholderapi/build/libs/LuckPerms-Fabric-PlaceholderAPI-Hook.jar),created by [Lucko] (https://github.com/lucko).  There is no versioning asssociated with the file name or download, but the internal version (in the fabric.mod.json file) is 5.1.
+**Note** For LuckPerms to effectively pass parameters for use by Styled Chat (Baseline System Module), you will need the [LuckPerms Placeholder Hook](https://ci.lucko.me/job/LuckPermsPlaceholders/lastSuccessfulBuild/artifact/fabric-placeholderapi/build/libs/LuckPerms-Fabric-PlaceholderAPI-Hook.jar),created by [Lucko](https://github.com/lucko).  There is no versioning asssociated with the file name or download, but the internal version (in the fabric.mod.json file) is 5.1.
 
 
 ### System Client
