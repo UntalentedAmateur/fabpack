@@ -1,27 +1,28 @@
 ## Optional Modules
 
-These are mods that might have originally been part of one of the above modules but removed for various gameplay or personal choice reasons.  These mods can be added without needing all players to have them installed.
+These are mods that might have originally been part of one of the above modules but removed for various gameplay or personal choice reasons.
 
-###### Optional Server
+Cooperative Advancements is a very useful server-side addition for servers where players are working cooperatively towards a single goal - like in a Hardcore world, for example.  Because it pops any achievement gained by one player for ALL players, it can be a bit divisive about whether it is in the spirit of the game for other gameplay type servers.  In worlds where cooperative play is the norm, it adds to the feeling of working together for a common outcome.  It also gives players a quick catchup of what's happened while they've been logged out, with the scrolling list of gained achievements being a nice summary of what other players have managed to achieve.  The whole mod can quickly be disabled through a config file change, but it then means an extra mod is being loaded into memory that isn't being used.
 
-|Mod|Modrinth|Curseforge|Author|Support|
-|-|-|-|-|-|
-|Cooperative Advancements| | | | |
-|Iceberg (Coop Advancements library)| | | | |
-|Minecraft Transit Railway| | | | |
-|Prefab| | | | |
-|The London Underground| | | | |
+### Optional Server
 
+|Mod|Version|Modrinth|Curseforge|Github|Author|Support|
+|-|-|-|-|-|-|-|
+|Cooperative Advancements|1.2.2| |[541945](https://www.curseforge.com/minecraft/mc-mods/cooperative-advancements-fabric)|[AHilyard/CooperativeAdvancements](https://github.com/AHilyard/CooperativeAdvancements)|Anthony Hilyard (Grend) [Github](https://github.com/AHilyard), [Curseforge](https://www.curseforge.com/members/grend_g/projects)|[Grend_G Paypal](https://www.paypal.com/cgi-bin/webscr?return=https://www.curseforge.com/projects/541945&cn=Add+special+instructions+to+the+addon+author()&business=anthony.hilyard%40gmail.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://www.curseforge.com/projects/541945&lc=US&item_name=Cooperative+Advancements+%5bFabric%5d+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD) |
+|Iceberg (Coop Advancements library)|1.0.38| |[520110](https://www.curseforge.com/minecraft/mc-mods/iceberg)|[AHilyard/Iceberg](https://github.com/AHilyard/Iceberg)|Anthony Hilyard (Grend) [Github](https://github.com/AHilyard), [Curseforge](https://www.curseforge.com/members/grend_g/projects)|[Grend_G Paypal](https://www.paypal.com/cgi-bin/webscr?return=https://www.curseforge.com/projects/541945&cn=Add+special+instructions+to+the+addon+author()&business=anthony.hilyard%40gmail.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://www.curseforge.com/projects/541945&lc=US&item_name=Cooperative+Advancements+%5bFabric%5d+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD) |
+|Minecraft Transit Railway|3.0.0|[XKPAmI6u](https://modrinth.com/mod/minecraft-transit-railway)|[266707](https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway) |[jonafanho/Minecraft-Transit-Railway](https://github.com/jonafanho/Minecraft-Transit-Railway) |[Johnathan Ho](https://github.com/jonafanho)| [Patreon](https://www.patreon.com/minecraft_transit_railway)|
+|Prefab|3.1.5|[pTJ1ZloG](https://modrinth.com/mod/prefab)| |[Brian-Wuest/MC-Prefab-Fabric](https://github.com/Brian-Wuest/MC-Prefab-Fabric)|[Brian Wuest](https://github.com/Brian-Wuest)| |
+|The London Underground|3.0.0-1.0.14| |[545686](https://www.curseforge.com/minecraft/mc-mods/london-underground)|[cherbert/mtr-london-underground-addon](https://github.com/cherbert/mtr-london-underground-addon)|[Johnathan Ho](https://github.com/jonafanho) [cherbert](https://github.com/cherbert)|[Cherbert Paypal](https://www.paypal.com/cgi-bin/webscr?return=https://www.curseforge.com/projects/545686&cn=Add+special+instructions+to+the+addon+author()&business=tinblue%40msn.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://www.curseforge.com/projects/545686&lc=US&item_name=The+London+Underground+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD)|
 
-###### Optional Client
+### Optional Client
 
-|Mod|Modrinth|Curseforge|Author|Support|
-|-|-|-|-|-|
-|Custom Splash Screen| | | | |
-|Fabric Restart| | | | |
-|Minecraft Transit Railway| | | | |
-|Mod Manager| | | | |
-|Moderate Loading Screen| | | | |
-|Prefab| | | | |
-|Simple HUD Utilities| | | | |
-|The London Underground| | | | |
+|Mod|Version|Modrinth|Curseforge|Github|Author|Support|
+|-|-|-|-|-|-|-|
+|Custom Splash Screen|1.2.0|[BwFQLeCh](https://modrinth.com/mod/custom-splash-screen)|[438252](https://www.curseforge.com/minecraft/mc-mods/custom-splash-screen)|[TeamMidnightDust/CustomSplashScreen](https://github.com/TeamMidnightDust/CustomSplashScreen)|Motschen  [Modrinth](https://modrinth.com/user/Motschen), [Github](https://github.com/Motschen), [Curseforge](https://www.curseforge.com/members/motschen/projects)| |
+|Fabric Restart|1.5.3| |[482945](https://www.curseforge.com/minecraft/mc-mods/fabric-restart)|[CmdrJane/Fabric-restart](https://github.com/CmdrJane/Fabric-restart)|[commanderaiefu - Curseforge](https://www.curseforge.com/members/commanderaiefu/projects), [CmdrJane - Github](https://github.com/CmdrJane)| |
+|Minecraft Transit Railway|3.0.0|[XKPAmI6u](https://modrinth.com/mod/minecraft-transit-railway)|[266707](https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway) |[jonafanho/Minecraft-Transit-Railway](https://github.com/jonafanho/Minecraft-Transit-Railway) |[Johnathan Ho](https://github.com/jonafanho)| [Patreon](https://www.patreon.com/minecraft_transit_railway)|
+|Mod Manager|1.2.3|[6kq7BzRK](https://modrinth.com/mod/modmanager)| |[ModManagerMC/ModManager](https://github.com/ModManagerMC/ModManager)|[Linus Büning (DeathsGun)](https://github.com/DeathsGun) | |
+|Moderate Loading Screen|1.1.3|[RCjGlCDj](https://modrinth.com/mod/moderate-loading-screen)|[557180](https://www.curseforge.com/minecraft/mc-mods/mod-erate-loading-screen)|[enjarai/moderate-loading-screen](https://github.com/enjarai/moderate-loading-screen)| enjarai [Modrinth](https://modrinth.com/user/enjarai), [Curseforge](https://www.curseforge.com/members/enjarai123/projects), [Github](https://github.com/enjarai) |[Ko-fi](https://ko-fi.com/enjarai)|
+|Prefab|3.1.5|[pTJ1ZloG](https://modrinth.com/mod/prefab)| |[Brian-Wuest/MC-Prefab-Fabric](https://github.com/Brian-Wuest/MC-Prefab-Fabric)|[Brian Wuest](https://github.com/Brian-Wuest)| |
+|Simple HUD Utilities|2.4.0|[Mn86JBmJ](https://modrinth.com/mod/simple-hud-utilities)|[356722](https://www.curseforge.com/minecraft/mc-mods/simple-utilities) |[johnvictorfs/simple-utilities-mod](https://github.com/johnvictorfs/simple-utilities-mod)|[johnvictorfs](https://github.com/johnvictorfs)|[Buy me a Coffee](https://www.buymeacoffee.com/johnvictor), [Paypal](https://www.paypal.com/cgi-bin/webscr?return=https://www.curseforge.com/projects/356722&cn=Add+special+instructions+to+the+addon+author()&business=johnvictorfs%40gmail.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://www.curseforge.com/projects/356722&lc=US&item_name=Simple+HUD+Utilities+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD)|
+|The London Underground|3.0.0-1.0.14| |[545686](https://www.curseforge.com/minecraft/mc-mods/london-underground)|[cherbert/mtr-london-underground-addon](https://github.com/cherbert/mtr-london-underground-addon)|[Johnathan Ho](https://github.com/jonafanho) [cherbert](https://github.com/cherbert)|[Cherbert Paypal](https://www.paypal.com/cgi-bin/webscr?return=https://www.curseforge.com/projects/545686&cn=Add+special+instructions+to+the+addon+author()&business=tinblue%40msn.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://www.curseforge.com/projects/545686&lc=US&item_name=The+London+Underground+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD)|

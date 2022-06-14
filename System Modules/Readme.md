@@ -2,51 +2,59 @@
 
 ### System Server
 
+**Mod Notes**
+- For LuckPerms to effectively pass parameters for use by Styled Chat (Baseline System Module), you will need the [LuckPerms Placeholder Hook](https://ci.lucko.me/job/LuckPermsPlaceholders/lastSuccessfulBuild/artifact/fabric-placeholderapi/build/libs/LuckPerms-Fabric-PlaceholderAPI-Hook.jar), created by [Lucko](https://github.com/lucko).  There is no versioning associated with the file name or download, but the internal version (in the fabric.mod.json file) is 5.1.  Version 5.1 is also available in System Modules/System Server/Custom Mod Files.  There is also no parity between Modrinth and Curseforge (and the main [LuckPerms website](https://luckperms.net)).  While the preferential download location for LuckPerms is the main website, the Curseforge version is at parity.
+
+
 |Mod|Version|Modrinth|Curseforge|Github|Author|Support|
 |-|-|-|-|-|-|-|
-|Fabric Language Kotlin|1.6.20| | | | |
-|FerriteCore|4.2.1| | | | |
-|Krypton|0.1.9 | | | |
-|LazyDFU|0.1.2| | | | |
-|Lithium|0.7.10| | | | |
-|LuckPerms|5.4.25| | | | |
-|Mods Command|1.0.7| | | | |
-|Recipe Cache|0.2.1| | | | |
-|Starlight (Fabric)|1.0.2| | | | |
-|TabTPS|1.3.13| | | | |
+|Fabric Language Kotlin|1.6.20|[Ha28R6CL](https://modrinth.com/mod/fabric-language-kotlin)|[308769](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)|[FabricMC/fabric-language-kotlin/](https://github.com/FabricMC/fabric-language-kotlin/)|Modmuss50<br/>[Curseforge](https://www.curseforge.com/members/modmuss50/projects), [Github](https://github.com/modmuss50), [Modrinth](https://modrinth.com/user/modmuss50) <br/>sfPlayer1<br/>[Curseforge](https://www.curseforge.com/members/sfplayer1/projects), [Modrinth](https://modrinth.com/user/sfPlayer1) | |
+|FerriteCore|4.2.1|[uXXizFIs](https://modrinth.com/mod/ferrite-core)|[459857](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)|[malte0811/FerriteCore](https://github.com/malte0811/FerriteCore)|malte0811<br/>[Modrinth](https://modrinth.com/user/malte0811), [Curseforge](https://www.curseforge.com/members/malte0811/projects), [Github](https://github.com/malte0811) | |
+|Krypton|0.1.9 |[fQEb0iXm](https://modrinth.com/mod/krypton) |[428912](https://www.curseforge.com/minecraft/mc-mods/krypton) |[astei/krypton](https://github.com/astei/krypton) |astei / tuxed<br/>[Modrinth](https://modrinth.com/user/astei), [Curseforge](https://www.curseforge.com/members/tuxed/projects), [Github](https://github.com/astei) |[Github Sponsor](https://github.com/sponsors/astei)|
+|LazyDFU|0.1.2|[hvFnDODi](https://modrinth.com/mod/lazydfu) |[433518](https://www.curseforge.com/minecraft/mc-mods/lazydfu) |[astei/lazydfu](https://github.com/astei/lazydfu) |astei / tuxed<br/>[Modrinth](https://modrinth.com/user/astei), [Curseforge](https://www.curseforge.com/members/tuxed/projects), [Github](https://github.com/astei) |[Github Sponsor](https://github.com/sponsors/astei)|
+|Lithium|0.7.10|[gvQqBUqZ](https://modrinth.com/mod/lithium)|[360438](https://www.curseforge.com/minecraft/mc-mods/lithium) |[CaffeineMC/lithium-fabric](https://github.com/CaffeineMC/lithium-fabric) |jellysquid3<br/>[Modrinth](https://modrinth.com/user/jellysquid3), [Curseforge](https://www.curseforge.com/members/jellysquid3_/projects), [Github](https://github.com/jellysquid3) |[Patreon](https://www.patreon.com/2No2Name) |
+|LuckPerms|5.4.25|[Vebnzrzj](https://modrinth.com/mod/luckperms) |[431733](https://www.curseforge.com/minecraft/mc-mods/luckperms) | [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms)|lucko<br/>[Modrinth](https://modrinth.com/user/lucko), [Curseforge](https://www.curseforge.com/members/iucko/projects), [Github](https://github.com/lucko)  |[Patreon](https://patreon.com/luckdev) |
+|Mods Command|1.0.7|[PExmWQV8](https://modrinth.com/mod/mods-command)|[469900](https://www.curseforge.com/minecraft/mc-mods/mods-command)|[jpenilla/ModsCommand](https://github.com/jpenilla/ModsCommand)|jpenilla<br/> [Modrinth](https://modrinth.com/user/jpenilla), [Curseforge](https://www.curseforge.com/members/jmp00000/projects) | |
+|Recipe Cache|0.2.1| |[473492](https://www.curseforge.com/minecraft/mc-mods/recipe-cache) |[biom4st3r/optimizedcrafting](https://gitlab.com/biom4st3r/optimizedcrafting)|biom4st3r<br/>[Curseforge](https://www.curseforge.com/members/biom4st3r1/projects), [Gitlab](https://gitlab.com/biom4st3r) | |
+|Starlight (Fabric)|1.0.2|[H8CaAYZC](https://modrinth.com/mod/starlight) |[521783](https://www.curseforge.com/minecraft/mc-mods/starlight) |[PaperMC/Starlight](https://github.com/PaperMC/Starlight) |Spottedleaf<br/> [Modrinth](https://modrinth.com/user/spottedleaf), [Curseforge](https://www.curseforge.com/members/spottedstar/projects), [Github](https://github.com/Spottedleaf) |[Patreon](https://patreon.com/Spottedleaf) |
+|TabTPS|1.3.13|[cUhi3iB2](https://modrinth.com/mod/tabtps) | |[jpenilla/TabTPS](https://github.com/jpenilla/TabTPS) |jpenilla<br/> [Modrinth](https://modrinth.com/user/jpenilla), [Curseforge](https://www.curseforge.com/members/jmp00000/projects)| |
 
-**Note** For LuckPerms to effectively pass parameters for use by Styled Chat (Baseline System Module), you will need the [LuckPerms Placeholder Hook](https://ci.lucko.me/job/LuckPermsPlaceholders/lastSuccessfulBuild/artifact/fabric-placeholderapi/build/libs/LuckPerms-Fabric-PlaceholderAPI-Hook.jar),created by [Lucko](https://github.com/lucko).  There is no versioning asssociated with the file name or download, but the internal version (in the fabric.mod.json file) is 5.1.
+
 
 
 ### System Client
 
-Note - Smooth Boot (Fabric) and LazyDFU achieve much the same result.  It is a matter of preference which one is installed client-side.
+**Mod Notes**
+- Smooth Boot (Fabric) and LazyDFU achieve much the same result.  It is a matter of preference which one is installed client-side, and both can be installed concurrently.  Smooth Boot's Modrinth versions do not maintain parity with the Github releases or Curseforge, which would be the preferential download locations.
+
+
 
 |Mod|Version|Modrinth|Curseforge|Github|Author|Support|
 |-|-|-|-|-|-|-|
 |BetterF3|1.2.5|[8shC1gFX](https://modrinth.com/mod/betterf3)|[401648](https://www.curseforge.com/minecraft/mc-mods/betterf3) |[cominixo/BetterF3](https://github.com/cominixo/BetterF3)|[treyruffy](https://github.com/TreyRuffy), [cominixo](https://github.com/cominixo)|[TreyRuffy](https://www.buymeacoffee.com/TreyRuffy), [cominixo](https://ko-fi.com/cominixo) |
 |CIT Resewn|1.0.1|[otVJckYQ](https://modrinth.com/mod/cit-resewn) |[521427](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)|[SHsuperCM/CITResewn](https://github.com/SHsuperCM/CITResewn)|[SHsuperCM](https://www.curseforge.com/members/shsupercm/projects) | |
-|Cloth Config API| | | | |
-|Continuity|1.1.0|[1IjD5062](https://modrinth.com/mod/continuity) |[531351](https://www.curseforge.com/minecraft/mc-mods/continuity) |[PepperCode1/Continuity](https://github.com/PepperCode1/Continuity) |[Curseforge - Pepper_Bell](https://www.curseforge.com/members/pepper_bell/projects), [Github - PepperCode1](https://github.com/PepperCode1), [Modrinth - PepperCode1](https://modrinth.com/user/peppercode1) | |
-|Controlling|9.0+19| | | | |
-|Disable Custom Worlds Advice|2.0| | | | |
-|Dynamic FPS|2.1.0| | | | |
-|EntityCulling|1.5.1| | | | |
-|Fabric API|0.53.4| | | | |
-|Fabric Language Kotlin|1.6.20| | | | |
-|FabricSkyboxes|0.5.5| | |[AMereBagatelle/fabricskyboxes](https://github.com/AMereBagatelle/fabricskyboxes) | | |
-|Indium|1.0.3| | | | |
-|Iris Shaders|1.2.4build38 | | | |
-|LambDynamicLights|2.1.0| | | | |
-|LazyDFU|0.1.2| | | | |
-|MidnightControls|1.0.0| | | | |
-|MidnightLib|0.4.0| | | | |
-|Mod Menu|3.2.2| | | | |
-|Mod Settings for Fabric|1.1.0| | | | |
-|Recipe Cache|0.2.1| | | | |
+|Cloth Config API|6.2.62|[9s6osm5g](https://modrinth.com/mod/cloth-config)|[348521](https://www.curseforge.com/minecraft/mc-mods/cloth-config)|[shedaniel/cloth-config](https://github.com/shedaniel/cloth-config)|shedaniel<br/> [Curseforge](https://www.curseforge.com/members/shedaniel/projects), [Github](https://github.com/shedaniel) |[Patreon](https://www.patreon.com/shedaniel) |
+|Continuity|1.1.0|[1IjD5062](https://modrinth.com/mod/continuity) |[531351](https://www.curseforge.com/minecraft/mc-mods/continuity) |[PepperCode1/Continuity](https://github.com/PepperCode1/Continuity) |[Curseforge - Pepper_Bell](https://www.curseforge.com/members/pepper_bell/projects), <br/>[Github - PepperCode1](https://github.com/PepperCode1), [Modrinth - PepperCode1](https://modrinth.com/user/peppercode1) | |
+|Controlling|9.0+19| |[250398](https://www.curseforge.com/minecraft/mc-mods/controlling)|[jaredlll08/Controlling](https://github.com/jaredlll08/Controlling)|jaredlll08 <br/>[Curseforge](https://www.curseforge.com/members/jaredlll08/projects), [Github](https://github.com/jaredlll08) |[Paypal](https://www.paypal.com/cgi-bin/webscr?return=https://www.curseforge.com/projects/250398&cn=Add+special+instructions+to+the+addon+author()&business=jluboff8%40gmail.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://www.curseforge.com/projects/250398&lc=US&item_name=Controlling+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD), [Patreon](patreon.com/Jaredlll08)|
+|Disable Custom Worlds Advice|2.0|[HdwRs3kc](https://modrinth.com/mod/dcwa)|[401978](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice)|[rdvdev2/DisableCustomWorldsAdvice](https://github.com/rdvdev2/DisableCustomWorldsAdvice)|rdvdev2 <br/> [Curseforge](https://www.curseforge.com/members/rdvdev2/projects), [Github](https://github.com/rdvdev2) |[Ko-fi](https://ko-fi.com/rdvdev2)|
+|Dynamic FPS|2.1.0|[LQ3K71Q1](https://modrinth.com/mod/dynamic-fps)|[335493](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)|[juliand665/Dynamic-FPS](https://github.com/juliand665/Dynamic-FPS)|juliand665<br/>[Curseforge](https://www.curseforge.com/members/juliand665/projects), [Github](https://github.com/juliand665) | |
+|EntityCulling|1.5.1|[NNAgCjsB](https://modrinth.com/mod/entityculling)|[448233](https://www.curseforge.com/minecraft/mc-mods/entityculling)|[tr7zw/EntityCulling](https://github.com/tr7zw/EntityCulling)|tr7zw<br/> [Curseforge](https://www.curseforge.com/members/tr9zw/projects), [Github](https://github.com/tr7zw) |[Ko-fi](https://ko-fi.com/tr7zw)|
+|Fabric API|0.53.4|[P7dR8mSH](https://modrinth.com/mod/fabric-api)|[306612](https://www.curseforge.com/minecraft/mc-mods/fabric-api) |[FabricMC/fabric](https://github.com/FabricMC/fabric)|Modmuss50<br/>[Curseforge](https://www.curseforge.com/members/modmuss50/projects), [Github](https://github.com/modmuss50), [Modrinth](https://modrinth.com/user/modmuss50) <br/>sfPlayer1<br/>[Curseforge](https://www.curseforge.com/members/sfplayer1/projects), [Modrinth](https://modrinth.com/user/sfPlayer1) | |
+|Fabric Language Kotlin|1.6.20|[Ha28R6CL](https://modrinth.com/mod/fabric-language-kotlin)|[308769](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)|[FabricMC/fabric-language-kotlin/](https://github.com/FabricMC/fabric-language-kotlin/)|Modmuss50<br/>[Curseforge](https://www.curseforge.com/members/modmuss50/projects), [Github](https://github.com/modmuss50), [Modrinth](https://modrinth.com/user/modmuss50) <br/>sfPlayer1<br/>[Curseforge](https://www.curseforge.com/members/sfplayer1/projects), [Modrinth](https://modrinth.com/user/sfPlayer1) | |
+|FabricSkyboxes|0.5.5|[YBz7DOs8](https://modrinth.com/mod/fabricskyboxes) | |[AMereBagatelle/fabricskyboxes](https://github.com/AMereBagatelle/fabricskyboxes) |[AMereBagatelle](https://github.com/AMereBagatelle) | |
+|FerriteCore|4.2.1|[uXXizFIs](https://modrinth.com/mod/ferrite-core)|[459857](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)|[malte0811/FerriteCore](https://github.com/malte0811/FerriteCore)|malte0811<br/>[Modrinth](https://modrinth.com/user/malte0811), [Curseforge](https://www.curseforge.com/members/malte0811/projects), [Github](https://github.com/malte0811) | |
+|Indium|1.0.3|[Orvt0mRa](https://modrinth.com/mod/indium)|[459496](https://www.curseforge.com/minecraft/mc-mods/indium)|[comp500/Indium](https://github.com/comp500/Indium)|comp500<br/>[Curseforge](https://www.curseforge.com/members/comp500/projects), [Github](https://github.com/comp500), [Modrinth](https://modrinth.com/user/comp500)| |
+|Iris Shaders|1.2.4build38|[YL57xq9U](https://modrinth.com/mod/iris)|[455508](https://www.curseforge.com/minecraft/mc-mods/irisshaders)|[IrisShaders/Iris](https://github.com/IrisShaders/Iris) |coderbot<br/>[Curseforge](https://www.curseforge.com/members/coderbot/projects), [Github](https://github.com/coderbot16), [Modrinth](https://modrinth.com/user/coderbot) |[Patreon](https://www.patreon.com/coderbot)|
+|LambDynamicLights|2.1.0|[yBW8D80W](https://modrinth.com/mod/lambdynamiclights)|[393442](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)|[LambdAurora/LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights)|LambdAurora<br/>[Modrinth](https://modrinth.com/user/LambdAurora), [Curseforge](https://www.curseforge.com/members/lambdaurora/projects), [Github](https://github.com/LambdAurora)| |
+|LazyDFU|0.1.2|[hvFnDODi](https://modrinth.com/mod/lazydfu) |[433518](https://www.curseforge.com/minecraft/mc-mods/lazydfu) |[astei/lazydfu](https://github.com/astei/lazydfu) |astei / tuxed<br/>[Modrinth](https://modrinth.com/user/astei), [Curseforge](https://www.curseforge.com/members/tuxed/projects), [Github](https://github.com/astei) |[Github Sponsor](https://github.com/sponsors/astei)|
+|Lithium|0.7.10|[gvQqBUqZ](https://modrinth.com/mod/lithium)|[360438](https://www.curseforge.com/minecraft/mc-mods/lithium) |[CaffeineMC/lithium-fabric](https://github.com/CaffeineMC/lithium-fabric) |jellysquid3<br/>[Modrinth](https://modrinth.com/user/jellysquid3), [Curseforge](https://www.curseforge.com/members/jellysquid3_/projects), [Github](https://github.com/jellysquid3) |[Patreon](https://www.patreon.com/2No2Name) |
+|MidnightControls|1.0.0|[bXX9h73M](https://modrinth.com/mod/midnightcontrols) |[621768](https://www.curseforge.com/minecraft/mc-mods/midnightcontrols)|[TeamMidnightDust/MidnightControls](https://github.com/TeamMidnightDust/MidnightControls)|Motschen<br/>[Modrinth](https://modrinth.com/user/Motschen), [Curseforge](https://www.curseforge.com/members/motschen/projects), [Github](https://github.com/Motschen) | |
+|MidnightLib|0.4.0|[codAaoxh](https://modrinth.com/mod/midnightlib) |[488090](https://www.curseforge.com/minecraft/mc-mods/midnightlib) |[TeamMidnightDust/MidnightLib](https://github.com/TeamMidnightDust/MidnightLib) |Motschen<br/>[Modrinth](https://modrinth.com/user/Motschen), [Curseforge](https://www.curseforge.com/members/motschen/projects), [Github](https://github.com/Motschen) | |
+|Mod Menu|3.2.2|[mOgUt4GM](https://modrinth.com/mod/modmenu) |[308702](https://www.curseforge.com/minecraft/mc-mods/modmenu) |[TerraformersMC/ModMenu](https://github.com/TerraformersMC/ModMenu) |Terraformers<br/>[Modrinth](https://modrinth.com/user/Prospector), [Curseforge](https://www.curseforge.com/members/terraformersmc/projects), [Github](https://github.com/TerraformersMC) | |
+|Mod Settings for Fabric|1.1.0|[mfDfQvcJ](https://modrinth.com/mod/mod-settings) |[544608](https://www.curseforge.com/minecraft/mc-mods/mod-settings)|[magicus/ModSettings](https://github.com/magicus/ModSettings)|magicus<br/> [Modrinth](https://modrinth.com/user/magicus), [Curseforge](https://www.curseforge.com/members/mag_icus/projects), [Github](https://github.com/magicus) | |
+|Recipe Cache|0.2.1| |[473492](https://www.curseforge.com/minecraft/mc-mods/recipe-cache) |[biom4st3r/optimizedcrafting](https://gitlab.com/biom4st3r/optimizedcrafting)|biom4st3r<br/>[Curseforge](https://www.curseforge.com/members/biom4st3r1/projects), [Gitlab](https://gitlab.com/biom4st3r) | |
 |Reese's Sodium Options|1.4.2|[Bh37bMuy](https://modrinth.com/mod/reeses-sodium-options) | |[FlashyReese/reeses-sodium-options](https://github.com/FlashyReese/reeses-sodium-options) | [FlashyReese](https://modrinth.com/user/FlashyReese)|[Ko-fi](https://ko-fi.com/flashyreese) |
-|Smooth Boot (Fabric)|1.7.0| | | | |
+|Smooth Boot (Fabric)|1.7.0|[FWumhS4T](https://modrinth.com/mod/smoothboot-fabric) |[415758](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) |[UltimateBoomer/mc-smoothboot](https://github.com/UltimateBoomer/mc-smoothboot) |UltimateBoomer<br/>[Modrinth](https://modrinth.com/user/UltimateBoomer), [Curseforge](https://www.curseforge.com/members/ultimateboomer/projects), [Github](https://github.com/UltimateBoomer) | |
 |Sodium|0.4.1build15|[AANobbMI](https://modrinth.com/mod/sodium) | |[CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) |[jellysquid3](https://modrinth.com/user/jellysquid3) |[Ko-fi](https://ko-fi.com/jellysquid_) |
 |Sodium Extras|0.4.4|[PtjYWJkn](https://modrinth.com/mod/sodium-extra)| |[FlashyReese/sodium-extra-fabric](https://github.com/FlashyReese/sodium-extra-fabric)| [FlashyReese](https://modrinth.com/user/FlashyReese)|[Ko-fi](https://ko-fi.com/flashyreese) |
-
-
+|Starlight (Fabric)|1.0.2|[H8CaAYZC](https://modrinth.com/mod/starlight) |[521783](https://www.curseforge.com/minecraft/mc-mods/starlight) |[PaperMC/Starlight](https://github.com/PaperMC/Starlight) |Spottedleaf<br/> [Modrinth](https://modrinth.com/user/spottedleaf), [Curseforge](https://www.curseforge.com/members/spottedstar/projects), [Github](https://github.com/Spottedleaf) |[Patreon](https://patreon.com/Spottedleaf) |

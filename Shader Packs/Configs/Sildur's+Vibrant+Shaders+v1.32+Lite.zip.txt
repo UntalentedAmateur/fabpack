@@ -1,0 +1,23 @@
+#Thu Jun 02 20:44:21 AEST 2022
+shadowDistance=110.0
+metallicRefl=true
+minlight=0.001
+TAA_quality=1
+MobsFlashRed=false
+Brightness=0.2
+Refraction=true
+Cloud_reflection=true
+waterRefl=true
+emissive_R=1.0
+Contrast=3.2
+RainReflections=true
+waves_amplitude=0.55
+iceRefl=true
+animationSpeed=0.5
+Godrays_Density=0.575
+shadowMapResolution=1024
+morningFog=true
+polishedRefl=true
+cloudsIT=8
+emissive_B=1.0
+emissive_G=1.0
