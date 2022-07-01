@@ -35,7 +35,7 @@ The individual systems that connect to the games are also variable, with a sampl
 - 2018 Mac Mini 3.6 GHz Quad-Core i3, 16 GB DDR4, Intel UHD 630 1536 MB
 - 2019 iMac 21.5" Retina 4K 3.6GHZ Quad-Core i3, 32GB DDR4, Radeon Pro 555X 2 GB
 
-All systems are able to run the full mod packs at full screen, though individual players run different resource and shader packs.  Due to the age of at least one of the systems (the 2010 iMac), one of the supported mods has had to be rebuilt with an older linked library as it was unable to run the latest distributed version.  This is identified and provided in the appropriate location.
+All systems are able to run the full mod packs at full screen, though individual players run different resource and shader packs.  Due to the age of at least one of the systems (the 2010 iMac), one of the supported mods has had to be rebuilt with an older linked library as it was unable to run the latest distributed version.  This is identified and provided in the appropriate location.  Even then, the oldest system was still running comfortably at 50-60+ FPS with multiple players online.
 
 #### Server
 
@@ -47,6 +47,14 @@ The Hardcore server, with approximately the same distance, is played on a 3GB se
 #### Client
 
 On the client side, it is recommended to set 4GB of RAM for a smoother experience.  The default Minecraft setting is okay, but there will be occasional client-side lag spikes and stuttering in very complicated regions and areas of high entity density.  Monitoring through BetterF3's memory module, the game doesn't seem to fully use the 4GB of allocated memory once it has loaded into the world and is running, but it does provide a nice headroom of added capacity and the game tends to hang at load if the General SMP modules  (and pre-reqs) are loaded and the RAM allocation hasn't been increased.
+
+#### But What About?
+
+What about mod XYZ?  Or Loader ABC?  Or Launcher DEF?  To begin with, UA hasn't had the opportunity to evaluate each and every mod that's out there and it's entirely possible that he will be adding mods to the pack over time as he finds and evaluates new mods and how they work with the existing pack elements.  There are modpacks that exist which do target the broad availability of mods, such as "All of Fabric", or "All of Forge", but UA's FabPack isn't setting out to replicate these packs.  Some mods which offer equivalent functionality to others already in the pack might have been evaluated but rejected for various reasons.  This might be due to lack of support for 1.18.2 as a starting point, lack of Fabric versions, excessively buggy behaviour, poor performance, or (in at least one case) the intentional inclusion of secret functionality that monitors game behaviour and intercepts and blocks player actions.
+
+As to the available modloaders, UA originally started playing without any, but found that a Spigot / Paper server configuration had the plugins and addons that were really needed to deliver the gameplay that the players on that server were expecting.  From there, UA moved towards Fabric as my modloader of choice.  There is plenty that Forge has to offer, but Fabric was chosen as it closest met the requirements in terms of current and future support, functionality, and performance.  Sure, it might have fewer mods available for it overall, but it's the loader UA is going with for now.  With the recent arrival of Quilt as a fork of Fabric, expect that 1.19 and later versions of the modpack will also be tested against and work with Quilt.
+
+With the launcher choice, UA began with the vanilla Mojang launcher and made the move to MultiMC and then PolyMC, with a side diversion into ATLauncher, as the different launchers had strengths in different areas that needed ready access during the development and evaluation phases of the modpack creation.  Launcher choice is pretty much whatever you find convenient, but UA plays with PolyMC as his daily Minecraft launcher.
 
 ## Licencing
 

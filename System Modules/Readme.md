@@ -1,5 +1,16 @@
 ## System Modules
 
+### Installing the Modules
+
+The first thing you need to determine is whether you are planning on installing just the server, just the client, the combined client-server, or only the Modrinth or Curseforge mods.  Then, choose the appropriate set of modpack files from the appropriate folder and download them (or install from the launcher / website).
+
+With the appropriate modpack(s) downloaded, open the launcher, PolyMC for example, and drag one of the pack files onto the main launcher window in the group section you're planning on installing the mods.  This will commence the installation of a new Instance and download the specific group of mods from the hosting site.  Repeat for the remaining modpack.  This process will normally result in two instances, with one containing the Modrinth mods, and the other the Curseforge mods.
+
+To merge the instances, select "Edit Instance" for both new instances, select the Mods option, and click "View Folder" (lower right) of the Instance you're going to end up copying the mods from.  This will open an operating system folder with those mods in it.  Select them all and drag them onto the mod list in the Instance you're planning to keep.  This will copy them into that Instance as well.
+
+Once you're happy all mods are in the right place, close the instance windows, and select the Instance you're planning on deleting.  Then select Delete Instance.  You can then change the name and icon and other normal configuration settings on the kept instance as you see fit.
+
+
 ### System Server
 
 **Mod Notes**
@@ -35,7 +46,6 @@
 |CIT Resewn|1.0.1|[otVJckYQ](https://modrinth.com/mod/cit-resewn) |[521427](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)|[SHsuperCM/CITResewn](https://github.com/SHsuperCM/CITResewn)|[SHsuperCM](https://www.curseforge.com/members/shsupercm/projects) | |
 |Cloth Config API|6.2.62|[9s6osm5g](https://modrinth.com/mod/cloth-config)|[348521](https://www.curseforge.com/minecraft/mc-mods/cloth-config)|[shedaniel/cloth-config](https://github.com/shedaniel/cloth-config)|shedaniel<br/> [Curseforge](https://www.curseforge.com/members/shedaniel/projects), [Github](https://github.com/shedaniel) |[Patreon](https://www.patreon.com/shedaniel) |
 |Continuity|1.1.0|[1IjD5062](https://modrinth.com/mod/continuity) |[531351](https://www.curseforge.com/minecraft/mc-mods/continuity) |[PepperCode1/Continuity](https://github.com/PepperCode1/Continuity) |[Curseforge - Pepper_Bell](https://www.curseforge.com/members/pepper_bell/projects), <br/>[Github - PepperCode1](https://github.com/PepperCode1), [Modrinth - PepperCode1](https://modrinth.com/user/peppercode1) | |
-|Controlling|9.0+19| |[250398](https://www.curseforge.com/minecraft/mc-mods/controlling)|[jaredlll08/Controlling](https://github.com/jaredlll08/Controlling)|jaredlll08 <br/>[Curseforge](https://www.curseforge.com/members/jaredlll08/projects), [Github](https://github.com/jaredlll08) |[Paypal](https://www.paypal.com/cgi-bin/webscr?return=https://www.curseforge.com/projects/250398&cn=Add+special+instructions+to+the+addon+author()&business=jluboff8%40gmail.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://www.curseforge.com/projects/250398&lc=US&item_name=Controlling+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD), [Patreon](patreon.com/Jaredlll08)|
 |Disable Custom Worlds Advice|2.0|[HdwRs3kc](https://modrinth.com/mod/dcwa)|[401978](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice)|[rdvdev2/DisableCustomWorldsAdvice](https://github.com/rdvdev2/DisableCustomWorldsAdvice)|rdvdev2 <br/> [Curseforge](https://www.curseforge.com/members/rdvdev2/projects), [Github](https://github.com/rdvdev2) |[Ko-fi](https://ko-fi.com/rdvdev2)|
 |Dynamic FPS|2.1.0|[LQ3K71Q1](https://modrinth.com/mod/dynamic-fps)|[335493](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)|[juliand665/Dynamic-FPS](https://github.com/juliand665/Dynamic-FPS)|juliand665<br/>[Curseforge](https://www.curseforge.com/members/juliand665/projects), [Github](https://github.com/juliand665) | |
 |EntityCulling|1.5.1|[NNAgCjsB](https://modrinth.com/mod/entityculling)|[448233](https://www.curseforge.com/minecraft/mc-mods/entityculling)|[tr7zw/EntityCulling](https://github.com/tr7zw/EntityCulling)|tr7zw<br/> [Curseforge](https://www.curseforge.com/members/tr9zw/projects), [Github](https://github.com/tr7zw) |[Ko-fi](https://ko-fi.com/tr7zw)|

@@ -2,6 +2,17 @@
 
 Installed after the System sets and provide the lightest variation to the baseline vanilla experience while still delivering many improvmements.
 
+### Installing the Modules
+
+The first thing you need to determine is whether you are planning on installing just the server, just the client, the combined client-server, or only the Modrinth or Curseforge mods.  Also, are you doing an install from scratch, or do you already have a System module modpack installed?  Then, choose the appropriate set of modpack files from the appropriate folder and download them (or install from the launcher / website).
+
+With the appropriate modpack(s) downloaded, open the launcher, PolyMC for example, and drag one of the pack files onto the main launcher window in the group section you're planning on installing the mods.  This will commence the installation of a new Instance and download the specific group of mods from the hosting site.  Repeat for the remaining modpack.  This process will normally result in two instances, with one containing the Modrinth mods, and the other the Curseforge mods.
+
+To merge the instances, select "Edit Instance" for both new instances, select the Mods option, and click "View Folder" (lower right) of the Instance you're going to end up copying the mods from.  This will open an operating system folder with those mods in it.  Select them all and drag them onto the mod list in the Instance you're planning to keep.  This will copy them into that Instance as well.
+
+Once you're happy all mods are in the right place, close the instance windows, and select the Instance you're planning on deleting.  Then select Delete Instance.  You can then change the name and icon and other normal configuration settings on the kept instance as you see fit.
+
+
 ### Baseline Server
 
 **Mod Notes**
