@@ -2,9 +2,6 @@
 
 Installed after the System and Baseline sets for gaming on SMP and Creative servers.
 
-tatercart-1.0.0-pre.4+1.18.2.jar
-
-
 ### General Server
 
 **Mod Notes**

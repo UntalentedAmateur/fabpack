@@ -11,9 +11,22 @@ With the issues surrounding third party access to the Curseforge CDN that were e
 
 Modules are separated into Client and Server groups, as there are some mods that only provide functionality on one or the other side of the Client / Server set up, and there are some server configs that will override client configs if the same mod is present on both the client and the server.  Unnecessary server mods on the client will just make the game boot slowly and bloat memory requirements as it loads modules into memory that it will never use.
 
-If you're only wanting to play locally using the locally started virtual server that Minecraft uses, then installing both the client and server packs are good.
+If you're only wanting to play locally using the locally started virtual server that Minecraft uses, then installing both the client and server packs are good (which is the "Combined" modpacks).
+
+When downloading the releases, if you download the Source Code zips as well, it will include all of the supporting text from these Readme documents.  This isn't as much of an issue as it might appear, as it takes a snapshot of how the files appeared when the release was made.  This can help if you want to see if a mod was moved between FabPack modules, or received a version bump before its associated module was released.  Because the Readme files are written using Github's version of Markdown, you will need specific tools to present the data correctly.  There are a number of useful tools readily available:
+- [Markdown Viewer](https://github.com/c3er/mdview)
+- [Github Readme Instant Preview (Grip)](https://github.com/joeyespo/grip)
+- [Atom](https://atom.io/)
+- [A list of them here](https://github.com/mundimark/awesome-markdown-editors)
 
 In order to make sure the system isn't doing unnecessary work, the first step recommended is to set up specific instances (alternate launchers like PolyMC, MultiMC, ATLauncher), or installations (vanilla Mojang launcher).  Then, with dedicated instances / installations available, the necessary Client mods can be quickly installed and it allows for play across multiple servers where the same mods are present but are configured differently (Charm is a mod where this config pairing is critical to be aware of or else it will refuse to connect the client to the server, and leave no trace in the logs as to why).
+
+Examples of how to install and configure the modules using the separate Curseforge and Modrinth files are available from my [Youtube Channel](https://www.youtube.com/channel/UCCB02d_Zi_C8AX-k_6UQn9w/).  Due to its inability to handle non-Curseforge hosted content (several examples of which are present in the FabPack), the Curseforge launcher is not recommended for use.  That, and it only acts as a wrapper to then launch an instance of the Mojang launcher.  You may as well get used to modifying Mojang installations directly (examples provided on the Youtube Channel).  In order of UA's preference, the preferred Minecraft launchers are:
+- PolyMC
+- ATLauncher
+- Mojang
+- MultiMC
+
 
 For optimal enjoyment, it is recommended that all connecting clients to a server have the full set of appropriate client modules (e.g. System, Baseline, SMP).  Mods that can be individually activated or disabled will be identified.
 
