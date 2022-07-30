@@ -38,6 +38,18 @@ Links to resource packs and shaders that UA really likes to run the game with ar
 
 In terms of what has been used to help collate and manage the development of the packs on UA's system, the primary tools (other than the PolyMC launcher) are [Ferium](https://github.com/gorilla-devs/ferium) and [Packwiz](https://github.com/packwiz/packwiz) in their CLI variants, with manual hand adjustment of the resultant pack files.
 
+## Mini-FAQ
+
+- Why is the modpack split like it is?
+
+The vertical splits (i.e. System, Baseline, etc) are based around a concept of gradual complexity and building on an established base that allows users and server admins to choose a more tailored solution that meets their needs rather than a one-size-fits-all outcome.  The horizontal splits (Modrinth and Curseforge components) are because some mod developers have their mods hosted only on Modrinth, others only on Curseforge, and others in other places altogether.  There is a fairly hard split between the Modrinth and Curseforge ecosystems (for various reasons) and the workable solution to develop a viable overall pack is to have separated components that focus on the mods hosted in different locations.  It's not ideal, but it seems to work for now.  Hopefully in the future we'll be able to return to a single pack style.
+
+- I downloaded my Modrinth and Curseforge bits and there's duplication of mods?
+
+This is purely a result of how the Curseforge ecosystem works.  It has issues with modpacks being uploaded if key dependencies are misssing.  For example, FabricAPI is linked to the Modrinth version in FabPack, but Curseforge requires it to be present in their modpack component or else the modpack files won't be accepted.  In general terms, this makes sense, given how the clear majority of modpacks are developed and distributed.  The issue is that FabPack breaks that model in order to deliver a viable solution in the face of the current distribution environment.
+
+When you consolidate the Curseforge and Modrinth components in your Minecraft launcher, you can choose to overwrite or discard the other copy of the mod that is duplicated.
+
 
 ## Performance Impact?
 
