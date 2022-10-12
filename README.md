@@ -1,6 +1,8 @@
 # UA's FabPack
 Untalented Amateur's Tuned Fabric Mod Pack for Minecraft
 
+This updated Release targets the last mod versions available for Minecraft 1.18.2
+
 Releases will follow a simple naming convention as they undergo refinement over the different release versions:
 
   ``Hessian -> Calico -> Cotton -> Wool -> Satin -> Silk``
