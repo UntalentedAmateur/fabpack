@@ -1,13 +1,13 @@
 # UA's FabPack
 Untalented Amateur's Tuned Fabric Mod Pack for Minecraft
 
-This updated Release targets the last mod versions available for Minecraft 1.18.2
+This updated Release targets the last mod versions available for Minecraft 1.18.2.  The Fabric loader is updated to 0.14.9
 
 Releases will follow a simple naming convention as they undergo refinement over the different release versions:
 
   ``Hessian -> Calico -> Cotton -> Wool -> Satin -> Silk``
 
-This pack is separated into several modules, with distinct purposes.  You may install one or multiple module packs, with the idea that subsequent modules build on the earlier modules and are thus lighter (with dependencies already installed, etc).  The intent behind the pack is a tuned pack that provides a set of vanilla and fabric mods that have been tested to work with each other beginning with Minecraft 1.18.2 and Fabric loader 0.14.  With the release of Minecraft 1.19, an updated version of the pack will follow in due course.
+This pack is separated into several modules, with distinct purposes.  You may install one or multiple module packs, with the idea that subsequent modules build on the earlier modules and are thus lighter (with dependencies already installed, etc).  The intent behind the pack is a tuned pack that provides a set of vanilla and fabric mods that have been tested to work with each other beginning with Minecraft 1.18.2 and Fabric loader 0.14.  A 1.19.2 version of the modpack will be released in due course.
 
 With the issues surrounding third party access to the Curseforge CDN that were experienced in May 2022, every effort has been made to ensure mods are available from both Modrinth and Curseforge wherever possible, with a preference towards Modrinth.  Mods that are only available from Curseforge will be in their own Curseforge specific modpack sections so that they can be downloaded either directly from the website, or via the Curseforge desktop application.  While Curseforge is limiting access to its own CDN, it seems open to [continuing the practice](https://support.curseforge.com/en/support/solutions/articles/9000197913-non-curseforge-mods) with non-Curseforge mods.  This particular access mode can not be guaranteed in the future, and it is neater and more efficient to create the mod pack(s) around the primary hosting location.
 
